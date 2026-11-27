@@ -2,7 +2,7 @@
 title: "[LecHAL 개발기 #1] 강의자료 PDF 파싱부터 하이브리드 인덱싱까지 (M1 구현 및 트러블슈팅)"
 date: 2026-11-25 00:00:00 +0900
 categories: [Project, LecHAL]
-tags: [llm, probability]
+tags: [llm]
 math: true
 ---
 
